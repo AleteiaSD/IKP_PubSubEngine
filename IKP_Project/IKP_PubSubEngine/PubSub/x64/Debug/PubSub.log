@@ -1,0 +1,5 @@
+﻿  PubSub.cpp
+c:\users\stevan\desktop\ikp_project\ikp_pubsubengine\pubsub\pubsub.cpp(177): warning C4101: 'result': unreferenced local variable
+  PubSubFunctions.cpp
+  Generating Code...
+Common.lib(customCommunication.obj) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'

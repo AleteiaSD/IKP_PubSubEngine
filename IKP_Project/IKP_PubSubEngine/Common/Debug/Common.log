@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  Common.cpp
+  customCommunication.cpp
+  data.cpp
+  interface.cpp
+  KeyValuePair.cpp
+  publisher.cpp
+  subscriber.cpp
+  topichangeList.cpp
+  Generating Code...
+  Common.vcxproj -> C:\Users\stevan\Desktop\New folder\ikp\IKP Projekat\IKP_Project\IKP_PubSubEngine\Debug\Common.lib

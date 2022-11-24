@@ -1,0 +1,4 @@
+﻿  Subscriber.cpp
+c:\users\stevan\desktop\ikp_project\ikp_pubsubengine\subscriber\subscriber.cpp(279): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  c:\users\stevan\desktop\ikp_project\ikp_pubsubengine\subscriber\subscriber.cpp(279): note: consider using '%zd' in the format string
+Common.lib(customCommunication.obj) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'

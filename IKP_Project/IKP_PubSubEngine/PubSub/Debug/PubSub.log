@@ -1,0 +1,5 @@
+﻿  PubSub.cpp
+C:\Users\stevan\Desktop\New folder\ikp\IKP Projekat\IKP_Project\IKP_PubSubEngine\PubSub\PubSub.cpp(177,7): warning C4101: 'result': unreferenced local variable
+  PubSubFunctions.cpp
+  Generating Code...
+  PubSub.vcxproj -> C:\Users\stevan\Desktop\New folder\ikp\IKP Projekat\IKP_Project\IKP_PubSubEngine\Debug\PubSub.exe
